@@ -10,28 +10,41 @@ This analysis was completed in order to better understand that citibike business
 The following images show trends in the NYC data that should be applied to the Des Moines business plan.
 
 
+
 ![checkout_times_user](images/checkout_times_user.png)
 This shows the average checkout time that users have the bikes. A very large majority of the bikes are not used for more than 40 minutes at a time.  This allows for bikes to be reused multiple times in a day by different users, if the supply of bikes remains adequate.  
+
+
 
 
 ![checkout_times_gender](images/checkout_times_gender.png)
 The average checkout time of the bikes by gender further supports that most users do not ride for more than 40 minutes at a time.  It also shows that there is a much higher use of the citibikes by males compared to females (high orange spike of uses). 
 
 
+
+
 ![trips_by_weekdays](images/trips_by_weekdays.png)
 It appears that the heaviest traffic for the bike use is between the hours of 5-7 PM.  It also appears that Mondays, Tuesdays, and Thursdays are the busiest days for business.  Lastly, the image shows that there is a spike in the bike use in the morning hours of 8-9 AM. These riders are presumably riding those bikes to work, which supports having bikes available to the residents of the metro area (and it helps the environment). 
+
+
 
 
 ![trips_by_gender](images/trips_by_gender.png)
 This image shows that males use the citibikes in NYC much more than females (the spots are much darker on the 'Males' side of the heatmap.  This image also shows that although there are far fewer female users, the 3 different gender categories listed (males, females, unknown) all show the same general trip times that are the busiest.  This means that regardless of gender, there is a high demand for the bikes around the hours of 8-9 AM and 5-7 PM.  
 
 
+
+
 ![user_trips_gender](images/user_trips_gender.png)
 This visual shows that male subscribers use the bikes more than any other type of user.  This heatmap also shows that subscribers take many more trips with the bikes than customers, so targeting a subscription-based business plan would create more satisfied users.  Lastly, Mondays, Tuesdays, Thursdays, and Fridays seem to be the busiest days for business.  These days are the most important to ensure enough supply of bikes for the very high demand.  Any updates, big projects, etc. that interrupt business should occur on a different day to keep the users more satisfied.  
 
 
+
+
 ![peak_hours_august](images/peak_hours_august.png)
 This graph can be seen primarily in the background, displaying the peak hours for the month of August.  From the hours of 7 AM - 8 PM, there are essentially 100K+ users that are actively using the bikes.  The highlighted portion shows that the hours peak between 5-7 PM.  This is the time that will need the highest supply of bikes, and interruptions to the bike-sharing business should not occur during these times.  
+
+
 
 
 ![top_starting_locations](images/top_starting_locations.png)
