@@ -51,7 +51,7 @@ This graph can be seen primarily in the background, displaying the peak hours fo
 The data from NYC shows that Manhattan area has the highest bike-user traffic.  This area is huge in tourism, very large business/corporations, and city parks. If any areas in Des Moines offer similar attractions to these, that should be the main focus of the business in order to satisfy the most users possible. If there are no areas that are comparable to this in Des Moines, consider areas that will benefit users with short-duration trips like to libraries, universities, parks, and other city attractions.  
 
 
-##Summary
+## Summary
 All in all, a bike-sharing business in Des Moines, Iowa should focus on these key things: 
   - Positioning bikes in areas that are short distances to city attractions. (shoot for less than 40 minute trips to these attractions)
   
