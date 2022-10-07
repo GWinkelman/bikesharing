@@ -1,4 +1,4 @@
-# Bikesharing - citibike proposal for Des Moines, Iowa
+# Bikesharing - Business Proposal for Des Moines, Iowa
 
 View these data visualizations and interact with them by following this link to the initial project on Tableau: 
 [link to dashboard](https://public.tableau.com/app/profile/gwinkelman/viz/citibikechallenge_16651119660020/ChallengeStory?publish=yes)
